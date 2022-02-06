@@ -1,1 +1,1 @@
-Welcome to the repository for my main GitHub Page!
+Welcome! No matter where you linked from, this is an up-to-date bio for information about me!

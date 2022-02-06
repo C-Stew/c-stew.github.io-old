@@ -4,11 +4,12 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 ### What am I into now?
 
   - Games:
+    - Elden Ring (SOON)
     - Minecraft
     - Destiny 2
     - VRChat
     - Valheim
-    - Elden Ring (SOON)
+    - Halo: MCC (Specifically Reach)
 
   - Hobbies:
     - Failing at blender rigging

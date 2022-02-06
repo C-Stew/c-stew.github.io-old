@@ -20,6 +20,7 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
   - Male (He/Him)
   - *Don't ask for my age, you probably won't get an answer.*
   - I'm not very talkative, but I open up around people I'm comfortable with.
+  - I'm on US Eastern Time, and I do observe daylight savings.
 
 ### Find me here!
 

@@ -26,4 +26,4 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 ### Find me here!
 
   - [YouTube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
-  - [Twitch](www.twitch.tv/thec_stew)
+  - [Twitch](https://www.twitch.tv/thec_stew)

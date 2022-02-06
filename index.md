@@ -1,3 +1,27 @@
-Aspiring tech nerd and avid gamer, I play a variety of games. I'm currently into Destiny 2, VRChat, and Minecraft.
+# Hello!
+As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 
-My noon is your <t:1635782400:t>.
+### What am I into now?
+
+  - Games:
+    - Minecraft
+    - Destiny 2
+    - VRChat
+    - Valheim
+    - Elden Ring (SOON)
+
+  - Hobbies:
+    - Failing at blender rigging
+    - Hanging out with friends
+    - Messing with LMMS
+
+### General Info
+
+  - Male (He/Him)
+  - *Don't ask for my age, you probably won't get an answer.*
+  - I'm not very talkative, but I open up around people I'm comfortable with.
+
+### Find me here!
+
+  - [YouTube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
+  - [Twitch](www.twitch.tv/thec_stew)

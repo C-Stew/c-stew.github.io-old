@@ -7,7 +7,7 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
     - Elden Ring (SOON)
     - Minecraft
     - Destiny 2
-    - VRChat
+    - [VRChat](https://vrchat.com/home/user/usr_0b1f1375-752c-43fd-8f6d-d2bdbae44b1e)
     - Valheim
     - Halo: MCC (Specifically Reach)
 

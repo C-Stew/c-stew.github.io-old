@@ -4,7 +4,7 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 ### What am I into now?
 
   - Games:
-    - Elden Ring (SOON)
+    - Elden Ring
     - Minecraft
     - Destiny 2
     - [VRChat](https://vrchat.com/home/user/usr_0b1f1375-752c-43fd-8f6d-d2bdbae44b1e)

@@ -5,17 +5,16 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 
   - Games:
     - Elden Ring
-    - 7 Days to Die (Alpha 20.3)
+    - Borderlands 3
+    - 7 Days to Die (Alpha 20.4)
     - Minecraft
-    - Titanfall 2
     - Risk of Rain 2
     - [VRChat](https://vrchat.com/home/user/usr_0b1f1375-752c-43fd-8f6d-d2bdbae44b1e)
-    - Halo: MCC (Halo 3 MP)
 
   - Hobbies:
-    - Failing at blender rigging
+    - ~~Failing~~ Getting better at blender rigging
     - Hanging out with friends
-    - Messing with LMMS
+    - Gaming on PC and PS5
 
 ### General Info
 

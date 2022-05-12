@@ -4,11 +4,10 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 ### What am I into now?
 
   - Games:
-    - Elden Ring
-    - Borderlands 3
-    - 7 Days to Die (Alpha 20.4)
-    - Minecraft
-    - Risk of Rain 2
+    - Terraria (PC)
+    - Elden Ring (PC)
+    - Borderlands 3 (PS5)
+    - Minecraft (Java/Windows 10)
     - [VRChat](https://vrchat.com/home/user/usr_0b1f1375-752c-43fd-8f6d-d2bdbae44b1e)
 
   - Hobbies:

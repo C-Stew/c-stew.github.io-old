@@ -5,10 +5,9 @@ As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
 
   - Games:
     - Terraria (PC)
-    - Elden Ring (PC)
-    - Borderlands 3 (PS5)
+    - Destiny 2 (PC/PS5)
+    - Horizon Zero Dawn (PS5)
     - Minecraft (Java/Windows 10)
-    - [VRChat](https://vrchat.com/home/user/usr_0b1f1375-752c-43fd-8f6d-d2bdbae44b1e)
 
   - Hobbies:
     - ~~Failing~~ Getting better at blender rigging

@@ -1,27 +1,39 @@
-# Hello!
-As an aspiring tech nerd and avid gamer, I'm always looking to try new things!
+# Welcome to my Information Portal!
 
-### What am I into now?
+Here you'll find general information and FAQs in regards to ~~*my, ahem, coming content* and~~ who I am as a person!
 
-  - Games:
-    - Terraria (PC)
-    - Destiny 2 (PC/PS5)
-    - Horizon Zero Dawn (PS5)
-    - Minecraft (Java/Windows 10)
+## Social Links
 
-  - Hobbies:
-    - ~~Failing~~ Getting better at blender rigging
-    - Hanging out with friends
-    - Gaming on PC and PS5
+- [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
 
-### General Info
+## General Information
 
-  - Male (He/Him)
-  - *Don't ask for my age, you probably won't get an answer.*
-  - I'm not very talkative, but I open up around people I'm comfortable with.
-  - I'm on US Eastern Time, and I do observe daylight savings.
+- I mostly play games on my laptop and PS5, but possess several other consoles I use regularly (mostly Nintendo).
+- I do use a dual PC setup for recording, but use a single computer for streaming (specs are listed below).
+- In case you were wondering, yes, I am male, and I turn 18 later this year. That's all you get.
+- I'm on US Eastern Time, so most of my content uploads/streams will happen in the afternoon for me.
 
-### Find me here!
+## What games do I play most?
 
-  - [YouTube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
-  - [Twitch](https://www.twitch.tv/thec_stew)
+It's highly likely most of the content you'll see from me will be Destiny 2, but I play many other great games on PS5, PC and Nintendo. Destiny 2 is what I enjoy the most barring burnout, so that's why I plan to stream it!
+
+## PC Specs
+
+### Gaming/Streaming Laptop
+
+- Model: Dell G3 3500
+- CPU: Intel i5-10300H
+- GPU: NVIDIA GTX 1660-Ti
+- RAM: 2x8GB 3200MHz
+- SSD: 512GB M.2 NVMe Drive
+
+### Recording Laptop
+
+~~*It's a repurposed office laptop, I'm not made of money!*~~
+
+- Model: Lenovo Thinkpad E580
+- CPU: Intel i3-8130U
+- GPU: Intel UHD 630 Graphics
+- RAM: 2x8GB 2933MHz
+- SSD: 256GB M.2 NVMe Drive
+- Capture Card: BlueAVS USB 2.0 Capture Card

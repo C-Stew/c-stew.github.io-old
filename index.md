@@ -15,7 +15,7 @@ Here you'll find general information and FAQs in regards to ~~*my, ahem, coming 
 
 ## What games do I play most?
 
-It's highly likely most of the content you'll see from me will be Destiny 2, but I play many other great games on PS5, PC and Nintendo. Destiny 2 is what I enjoy the most barring burnout, so that's why I plan to stream it!
+It's highly likely most of the content you'll see from me will be Destiny 2 and Minecraft, but I play many other great games on PS5, PC and Nintendo. Destiny 2 is what I enjoy the most barring burnout, so that's why I plan to stream it!
 
 ## PC Specs
 

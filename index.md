@@ -9,7 +9,7 @@ Here you'll find general information and FAQs in regards to ~~*my, ahem, coming 
 ## General Information
 
 - I mostly play games on my laptop and PS5, but possess several other consoles I use regularly (mostly Nintendo).
-- I do use a dual PC setup for recording, but use a single computer for streaming (specs are listed below).
+- I do use a dual PC setup for recording and streaming (specs are listed below).
 - In case you were wondering, yes, I am male, and I turn 18 later this year. That's all you get.
 - I'm on US Eastern Time, so most of my content uploads/streams will happen in the afternoon for me.
 
@@ -19,7 +19,7 @@ It's highly likely most of the content you'll see from me will be Destiny 2, but
 
 ## PC Specs
 
-### Gaming/Streaming Laptop
+### Gaming
 
 - Model: Dell G3 3500
 - CPU: Intel i5-10300H
@@ -27,7 +27,7 @@ It's highly likely most of the content you'll see from me will be Destiny 2, but
 - RAM: 2x8GB 3200MHz
 - SSD: 512GB M.2 NVMe Drive
 
-### Recording Laptop
+### Recording/Streaming Laptop
 
 ~~*It's a repurposed office laptop, I'm not made of money!*~~
 

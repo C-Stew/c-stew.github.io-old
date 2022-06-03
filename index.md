@@ -19,7 +19,7 @@ It's highly likely most of the content you'll see from me will be Destiny 2, but
 
 ## PC Specs
 
-### Gaming
+### Gaming Laptop
 
 - Model: Dell G3 3500
 - CPU: Intel i5-10300H

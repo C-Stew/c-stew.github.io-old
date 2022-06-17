@@ -15,7 +15,7 @@ Here you'll find general information and FAQs in regards to ~~*my, ahem, coming 
 
 ## What games do I play most?
 
-It's highly likely most of the content you'll see from me will be Destiny 2, but I play many other great games on PS5, PC and Nintendo. These include Minecraft, Zelda, FFXV, and many other AAA and Indie games alike! Destiny 2 is what I enjoy the most barring burnout, so that's why I plan to make content around it!
+It's highly likely most of the content you'll see from me will be Risk of Rain 2, but I play many other great games on PS5, PC and Nintendo. These include Minecraft, Zelda, FFXV, Destiny 2 and many other AAA and Indie games alike! Risk of Rain 2 is the game I come back to the most and always enjoy, so that's why I plan to make content around it!
 
 ## PC Specs
 

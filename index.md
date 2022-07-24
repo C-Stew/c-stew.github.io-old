@@ -16,7 +16,7 @@
 
 ### Modding Tutorials
 
-*Wind Waker Hero's Sword replacement soon!*
+*Wind Waker Weapon replacement soon!*
 
 -----
 ## PC Specs

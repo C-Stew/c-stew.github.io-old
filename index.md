@@ -1,6 +1,6 @@
-# Welcome to my Information Portal!
+# Welcome to my Content Portal!
 
-Here you'll find general information and FAQs in regards to my internet content and who I am as a person!
+Here you'll find links to all my internet content!
 
 ## Check out my content here!
 

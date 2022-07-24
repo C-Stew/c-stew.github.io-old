@@ -1,7 +1,7 @@
 # C Stew - Variety Gamer and Wind Waker Modder
 -----
 
-Hello! I'm a computer nerd and variety gamer who's starting to enter the realm of game modding!
+**Hello! I'm a computer nerd and variety gamer who's starting to enter the realm of game modding!**
 
 ## Check out my content here!
 

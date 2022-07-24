@@ -1,1 +1,1 @@
-Welcome! No matter where you linked from, this is an up-to-date bio for information about me!
+Hello there! I play and mod The Legend of Zelda: Wind Waker!

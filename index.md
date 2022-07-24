@@ -7,19 +7,17 @@ Here you'll find links to all my internet content!
 - [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
 - [Gamebanana](https://gamebanana.com/members/2153209)
 
-## General Information
-
-- I mostly play games on my laptop and PS5, but possess several other consoles I use regularly (mostly Nintendo).
-- I use a dual PC setup for recording and streaming (specs are listed below).
-- I'm on US Eastern Time, so most of my content uploads/streams will happen in the afternoon for me.
-
 ## What content do I make?
 
 - Most of my content will be centered around playing and modding Zelda games, and I'm currently into Wind Waker! I only have one major project out right now, but I plan to make additional mods and tutorials in the future!
 
-## Finished Mods
+### Released Mod Projects
 
-[![]("https://gamebanana.com/mods/embeddables/390174?type=large")](https://gamebanana.com/mods/390174)
+[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174)
+
+### Modding Tutorials
+
+- *Wind Waker Hero's Sword replacement soon!*
 
 ## PC Specs
 

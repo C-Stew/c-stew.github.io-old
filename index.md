@@ -1,22 +1,21 @@
 # C Stew - Variety Gamer and Wind Waker Modder
-
+-----
 ## Check out my content here!
 
 - [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
 - [Gamebanana](https://gamebanana.com/members/2153209)
 
-## What content do I make?
+### Mod Projects
 
-- Most of my content will be centered around playing and modding Zelda games, and I'm currently into Wind Waker! I only have one major project out right now, but I plan to make additional mods and tutorials in the future!
-
-### Released Mod Projects
+![](https://gamebanana.com/mods/embeddables/390174?type=large)
 
 [Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174)
 
 ### Modding Tutorials
 
-- *Wind Waker Hero's Sword replacement soon!*
+*Wind Waker Hero's Sword replacement soon!*
 
+-----
 ## PC Specs
 
 ### Gaming Laptop

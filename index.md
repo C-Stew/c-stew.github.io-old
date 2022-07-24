@@ -27,7 +27,8 @@
 - CPU: Intel i5-10300H
 - GPU: NVIDIA GTX 1660-Ti
 - RAM: 2x8GB 3200MHz
-- SSD: 512GB M.2 NVMe Drive
+- SSD: 512GB M.2 NVMe
+- HDD: USB 3.0 1TB Seagate Portable
 
 ### Recording/Streaming Laptop
 
@@ -37,5 +38,5 @@
 - CPU: Intel i3-8130U
 - GPU: Intel UHD 630 Graphics
 - RAM: 2x8GB 2933MHz
-- SSD: 256GB M.2 NVMe Drive
+- SSD: 256GB M.2 NVMe
 - Capture Card: BlueAVS USB 2.0 Capture Card

@@ -1,21 +1,21 @@
 # Welcome to my Information Portal!
 
-Here you'll find general information and FAQs in regards to ~~*my, ahem, coming content* and~~ who I am as a person!
+Here you'll find general information and FAQs in regards to my internet content and who I am as a person!
 
-## Social Links
+## Check out my content here!
 
 - [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
+- [Gamebanana](https://gamebanana.com/members/2153209)
 
 ## General Information
 
 - I mostly play games on my laptop and PS5, but possess several other consoles I use regularly (mostly Nintendo).
-- I do use a dual PC setup for recording and streaming (specs are listed below).
-- In case you were wondering, yes, I am male, and I turn 18 later this year. That's all you get.
+- I use a dual PC setup for recording and streaming (specs are listed below).
 - I'm on US Eastern Time, so most of my content uploads/streams will happen in the afternoon for me.
 
-## What games do I play most?
+## What content do I make?
 
-It's highly likely most of the content you'll see from me will be related to Zelda games, but I play many other great games on PS5, PC and Nintendo. These include Minecraft, FFXV, Destiny 2, Risk of Rain 2 and many other AAA and Indie games alike! Wind Waker is the game I always enjoy, especially the randomizer, so that's why I plan to make content around it and other Zelda titles!
+- Most of my content will be centered around playing and modding Zelda games, and I'm currently into Wind Waker! I only have one major project out right now, but I plan to make additional mods and tutorials in the future! 
 
 ## PC Specs
 

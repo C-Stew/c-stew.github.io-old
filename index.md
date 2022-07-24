@@ -1,6 +1,4 @@
-# Welcome to my Content Portal!
-
-Here you'll find links to all my internet content!
+# C Stew - Variety Gamer and Wind Waker Modder
 
 ## Check out my content here!
 

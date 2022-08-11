@@ -16,8 +16,6 @@
 
 ### Modding Tutorials
 
-*Wind Waker Weapon replacement soon!*
-
 -----
 ## PC Specs
 

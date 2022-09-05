@@ -17,7 +17,7 @@ I'm currently studying Java as well as experimenting with 3D Design in my spare 
 
 ![Steel Arming Sword](/content/Steel%20Arming%20Sword%20Render.gif)
 
-[[Sketchfab]](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125) --- [[Direct Download]]() |
+[[Direct Download]](https://www.dropbox.com/s/a98kkod7dnlyqge/%5BC%20Stew%5D%20Steel%20Arming%20Sword.7z?dl=0) --- [[Sketchfab]](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125) |
 
 ### Game Mods
 

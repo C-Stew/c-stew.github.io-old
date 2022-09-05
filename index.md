@@ -7,18 +7,13 @@
 
 - [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
 - [Gamebanana](https://gamebanana.com/members/2153209)
+- [Sketchfab](https://sketchfab.com/the_cstew)
 
 ### 3D Models
 
 ![Steel Arming Sword](/content/Steel%20Arming%20Sword%20Render.gif)
 
 [Steel Arming Sword](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125)
-
-### Other Projects
-
-![](https://gamebanana.com/mods/embeddables/390174?type=large)
-
-[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174)
 
 -----
 ## PC Specs

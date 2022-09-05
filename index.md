@@ -1,4 +1,4 @@
-# C Stew - Variety Gamer and 3D Design Enthusiast
+# C Stew - Variety Gamer and Tech Enthusiast
 -----
 
 **Hello! I'm a computer nerd and variety gamer who's looking to expand his skillset!**
@@ -10,7 +10,7 @@
 
 ### 3D Models
 
-![Steel Arming Sword](https://github.com/C-Stew/c-stew.github.io/blob/gh-pages/content/Steel%20Arming%20Sword%20Render.gif)
+![Steel Arming Sword](/content/Steel%20Arming%20Sword%20Render.gif)
 
 [Steel Arming Sword](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125)
 

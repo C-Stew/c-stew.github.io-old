@@ -27,11 +27,11 @@ I'm currently studying Java as well as experimenting with 3D Design in my spare 
 
 ![Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/embeddables/384959?type=large)
 
-[Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/384959) | Breath of the Wild
+[Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/384959) | Game: Breath of the Wild
 
 ![Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/embeddables/390174?type=large)
 
-[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) | Wind Waker
+[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) | Game: Wind Waker
 
 -----
 

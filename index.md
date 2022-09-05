@@ -27,7 +27,7 @@ I'm currently studying Java as well as experimenting with 3D Design in my spare 
 
 ![Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/embeddables/390174?type=large)
 
-[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) --- Game: Wind Waker 
+[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) --- Game: Wind Waker |
 
 ---
 

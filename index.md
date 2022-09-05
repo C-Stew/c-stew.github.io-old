@@ -1,6 +1,6 @@
 # C Stew - Variety Gamer and Tech Enthusiast
 
-**Hello! I'm a computer nerd and variety gamer who's looking to expand his skillset!**
+**Hello! I'm a computer nerd and variety gamer who's looking to expand their skillset!**
 
 -----
 

@@ -17,17 +17,17 @@ I'm currently studying Java as well as experimenting with 3D Design in my spare 
 
 ![Steel Arming Sword](/content/Steel%20Arming%20Sword%20Render.gif)
 
-[[Sketchfab]](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125) | [[Direct Download]]()
+[[Sketchfab]](https://sketchfab.com/3d-models/steel-arming-sword-9f0ef5f6caab48359a667a4581e4f125) --- [[Direct Download]]() |
 
 ### Game Mods
 
 ![Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/embeddables/384959?type=large)
 
-[Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/384959) | Game: Breath of the Wild
+[Lore-Accurate Hero of Twilight Set](https://gamebanana.com/mods/384959) --- Game: Breath of the Wild |
 
 ![Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/embeddables/390174?type=large)
 
-[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) | Game: Wind Waker
+[Skyward Ascent - Rando Support for SS Link](https://gamebanana.com/mods/390174) --- Game: Wind Waker 
 
 ---
 

@@ -10,7 +10,7 @@
 - [Gamebanana](https://gamebanana.com/members/2153209)
 - [Sketchfab](https://sketchfab.com/the_cstew)
 
-## 3D Models
+## Published Projects
 
 -----
 ![Steel Arming Sword](/content/Steel%20Arming%20Sword%20Render.gif)

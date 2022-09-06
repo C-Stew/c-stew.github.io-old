@@ -7,7 +7,7 @@ I'm currently studying Java as well as experimenting with 3D Design in my spare 
 
 ## Social Media
 
-### - [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
+### - ![ ](/content/web-logos/Youtube_Icon.png) [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
 
 ---
 

@@ -1,7 +1,7 @@
 ![Profile Image](/content/TFH_Blue_Link_24-bit.png)
 
 **I'm a highschool student from the United States who's into video games, computers, coding, and design.
-I'm currently studying Java as well as experimenting with 3D Design in my spare time, among other hobbies.**
+I'm currently studying Java as well as learning longsword fencing in my spare time, among other hobbies.**
 
 ---
 

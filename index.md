@@ -7,7 +7,7 @@ I'm currently studying Java as well as learning longsword fencing in my spare ti
 
 ## Social Media
 
-### ![ ](/content/web-logos/YouTube_Icon.png) [Youtube](https://www.youtube.com/channel/UCgEBxYYn-jt4SFe8gCMe9PA)
+### ![ ](/content/web-logos/YouTube_Icon.png) [Youtube](https://www.youtube.com/channel/@theC_Stew)
 
 ### ![ ](/content/web-logos/Twitch_Icon.png) [Twitch](https://www.twitch.tv/thec_stew)
 
